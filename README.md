@@ -1,4 +1,7 @@
-HI THERE!
+HI THERE!,
+Its's me Arpan Sharma, A Python developer and java enthusiast,
+Currently working on Deeplearning and Generative Ai models and django and spring based backend systems.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpan-sharma-b2a353272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpanuk07@gmail.com) 
