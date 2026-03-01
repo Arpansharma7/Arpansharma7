@@ -1,6 +1,6 @@
 HI THERE!,
 Its's me Arpan Sharma, A Python developer and java enthusiast,
-Currently working on Deeplearning and Generative Ai models and django and spring based backend systems.
+Currently working on DeepcLearning, Generative Ai models, django and spring based backend systems.
 
 
 ## 🌐 Socials:
