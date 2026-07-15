@@ -40,11 +40,9 @@ Final-year Computer Science student focused on Machine Learning and Data Science
 
 ### `> ls current_focus/`
 
-- Working on applied ML/data tooling projects — details being actively updated as they ship
-- Refining internship applications and technical writing around ML/AI topics
-- *(This section is intentionally kept lightweight — check pinned repos below for what's actually live.)*
-
----
+- Building applied Machine Learning and Generative AI projects
+- Exploring LLM applications, Retrieval-Augmented Generation (RAG), and AI-powered developer tools
+- Practicing Data Structures & Algorithms and preparing for Software Engineering and AI/ML internships
 
 ### `> cat tech_stack.json`
 
