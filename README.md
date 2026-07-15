@@ -6,7 +6,7 @@
 
 <div align="center">
 
-```
+```bash
 $ whoami
 > Arpan Sharma — CS student, Dehradun, India
 > Focus: Machine Learning / AI / Data Science
@@ -43,6 +43,8 @@ Final-year Computer Science student focused on Machine Learning and Data Science
 - Building applied Machine Learning and Generative AI projects
 - Exploring LLM applications, Retrieval-Augmented Generation (RAG), and AI-powered developer tools
 - Practicing Data Structures & Algorithms and preparing for Software Engineering and AI/ML internships
+
+---
 
 ### `> cat tech_stack.json`
 
@@ -94,7 +96,6 @@ Final-year Computer Science student focused on Machine Learning and Data Science
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-
 ---
 
 ### `> git log --stats`
@@ -111,8 +112,6 @@ Final-year Computer Science student focused on Machine Learning and Data Science
 
 </div>
 
-
-
 ---
 
 ### `> cat education.yaml`
@@ -123,10 +122,13 @@ specialization: Artificial Intelligence & Machine Learning
 university: Graphic Era Hill University
 graduation: 2027
 status: actively_interviewing
+```
+
+---
 
 ### `> cat collaborate.md`
 
-```
+```text
 open_to: [ Internship opportunities in SDE / SWE / Data Science-AI-ML ]
 based_in: Dehradun, India
 reach_me: arpan.sharma091106@gmail.com
@@ -140,6 +142,6 @@ If you're hiring for internship roles in ML/AI, Data Science, or general SWE —
 
 <img src="https://komarev.com/ghpvc/?username=Arpansharma7&color=00FF41&style=flat-square&label=Profile+Views" />
 
-`Last updated: 2026-07-03`
+`Last updated: 2026-07-15`
 
 </div>
