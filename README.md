@@ -94,7 +94,6 @@ Final-year Computer Science student focused on Machine Learning and Data Science
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-> Badge set is broad by design — swap out anything you haven't hands-on used, since this list is the first thing a recruiter cross-checks against your repos.
 
 ---
 
@@ -112,23 +111,18 @@ Final-year Computer Science student focused on Machine Learning and Data Science
 
 </div>
 
-> Stats above pull live from GitHub — no manual claims, just what's actually on record.
+
 
 ---
 
 ### `> cat education.yaml`
 
 ```yaml
-degree: B.Tech, Computer Science (final year)
-focus_areas:
-  - Machine Learning
-  - Data Science / AI
+degree: B.Tech, Computer Science
+specialization: Artificial Intelligence & Machine Learning
+university: Graphic Era Hill University
+graduation: 2027
 status: actively_interviewing
-```
-
-*(Swap in your university name, certifications, and any awards here — kept as a template since none were confirmed.)*
-
----
 
 ### `> cat collaborate.md`
 
