@@ -98,13 +98,6 @@ Final-year Computer Science student focused on Machine Learning and Data Science
 
 ---
 
-### `> git log --stats`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Arpansharma7&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-</div>
 
 <div align="center">
 
