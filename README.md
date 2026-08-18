@@ -99,11 +99,7 @@ Final-year Computer Science student focused on Machine Learning and Data Science
 ---
 
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpansharma7&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" />
-
-</div>
 
 ---
 
