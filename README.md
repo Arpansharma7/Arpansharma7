@@ -124,13 +124,3 @@ reach_me: arpan.sharma091106@gmail.com
 ```
 
 If you're hiring for internship roles in ML/AI, Data Science, or general SWE — my inbox and LinkedIn DMs are open.
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Arpansharma7&color=00FF41&style=flat-square&label=Profile+Views" />
-
-`Last updated: 2026-07-15`
-
-</div>
